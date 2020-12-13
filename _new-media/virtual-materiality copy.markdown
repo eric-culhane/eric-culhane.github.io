@@ -18,5 +18,4 @@ preview: /assets/img/time-to-go-outside-version-4-loop-720p.gif?auto=yes
 *Created with watercolor paint and digital photo manipulation. Combines digital and physical mediums to reconnect digital presence to material reality. Designed to be viewed on a phone.*
 
 
-***See the full exhibition at:***
-[http://www.connectionsartspace.com/virtual-materiality](http://www.connectionsartspace.com/virtual-materiality)
+[***See the full exhibition***](http://www.connectionsartspace.com/virtual-materiality)

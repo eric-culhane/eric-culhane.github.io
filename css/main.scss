@@ -14,52 +14,99 @@ $grey-color-dark:  darken($grey-color, 25%);
         "layout"
 ;
 
-a:visited{
-        color:inherit;
-      }
-      
+.container a {
+        color: $color-link;
+        text-decoration: underline;
+}
+
+.container a:hover {
+        color: $color-link-hover;
+}
+
+.height-100-pct {
+        height: 100%;
+}
+
+.homepage-container {
+        width: 100%;
+        height: 100%;
+        display: table;
+        text-align: center;
+}
+
+.homepage  {
+        display: table-cell;
+        vertical-align: middle;
+}
+
+.homepage-image {
+        width: 100%;
+        @media (min-width: 500px) {
+                max-width: 500px;
+}
+}
 
 .nav-item {
         display: block;
         padding: 0px;
         margin: 0px;
+        color: $color-primary;
 }
 
-.nav-item :hover {
-        // display: inline-block;
-        text-decoration: underline;
-}
+// .nav-item :hover {
+//         // display: inline-block;
+//         text-decoration: underline;
+//         color: darken($color-primary, 25%);
+// }
 
 .nav-item-current {
         display: block;
         padding: 0px;
         margin: 0px;
         font-weight: bold;
+        color: $color-primary;
 }
 
-.nav-item:hover, .nav-item:focus, .nav-item:active, .nav-item-current:hover, .nav-item-current:focus, .nav-item-current:active  {
+.nav-item :hover, .nav-item :focus, .nav-item :active, .nav-item-current :hover, .nav-item-current :focus, .nav-item-current :active  {
         text-decoration: underline;
+        color: darken($color-primary, 40%);
 }
+
+@media (min-width: 349px) {
+span.keeptogether {
+        white-space: nowrap ;
+      } 
+}
+// @media (max-width: 350px) {
+// .navbar {
+//         padding-top:10px;
+// }
+//         }
 
 @media (min-width: 350px) {
 .nav-item-current {
         display: inline-block;
-        padding: 1rem;
+        padding-left: 1rem;
+        padding-right: 1rem;
+        padding-top: 1rem;
         font-weight: bold;
       }
 .nav-item {
         display: inline-block;
-        padding: 1rem;
+        padding-left: 1rem;
+        padding-right: 1rem;
+        padding-top: 1rem;
 }
 }
 
 .breadcrumbs {
         font-size: 1.2rem;
+        text-decoration: none !important;
         color: gray !important;
 }
 
 .breadcrumbs :hover {
-        text-decoration: underline;
+        text-decoration: underline !important;
 }
 
 
