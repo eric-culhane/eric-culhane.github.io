@@ -46,11 +46,36 @@ $grey-color-dark:  darken($grey-color, 25%);
 }
 }
 
+
+.nav-item-div {
+        background-color: white;
+        // display: inline-block;
+
+}
+
+@media (min-width:349px) {
+        .nav-item-div {
+                background-color: white;
+                display: inline-block;
+        
+        }
+}
+
+
+
+.nav-item-div :hover, .nav-item-div :focus, .nav-item-div :active
+        {
+        background-color: black;
+        // display: inline-block;
+        color: #ffffff;
+
+}
+
 .nav-item {
         display: block;
-        padding: 0px;
+        padding: 1rem;
         margin: 0px;
-        color: $color-primary;
+        // color: $color-primary;
 }
 
 // .nav-item :hover {
@@ -61,15 +86,16 @@ $grey-color-dark:  darken($grey-color, 25%);
 
 .nav-item-current {
         display: block;
-        padding: 0px;
+        padding: 1rem;
         margin: 0px;
         font-weight: bold;
-        color: $color-primary;
+        // color: $color-primary;
 }
 
 .nav-item :hover, .nav-item :focus, .nav-item :active, .nav-item-current :hover, .nav-item-current :focus, .nav-item-current :active  {
         text-decoration: underline;
-        color: darken($color-primary, 40%);
+        color: #ffffff;
+        // color: lighten($color-primary, 100%);
 }
 
 @media (min-width: 349px) {
@@ -83,7 +109,7 @@ span.keeptogether {
 // }
 //         }
 
-@media (min-width: 350px) {
+@media (min-width: 349px) {
 .nav-item-current {
         display: inline-block;
         padding-left: 1rem;
