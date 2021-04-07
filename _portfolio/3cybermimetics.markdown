@@ -1,7 +1,7 @@
 ---
 layout: content
 title:  Cybermimetics
-preview: assets\img\cyber-thumbnail.png
+preview: \assets\img\cyber-thumbnail.png
 section: portfolio
 ---
 
