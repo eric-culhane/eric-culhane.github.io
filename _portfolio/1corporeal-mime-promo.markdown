@@ -1,7 +1,7 @@
 ---
 layout: content
 title:  Corporeal Mime with Thomas Leabhart
-preview: holder.js/300x300?auto=yes
+preview: _site\assets\img\corporeal-thumbnail.jpg
 section: portfolio
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: content
 title:  piano piano piano
-preview: holder.js/300x300?auto=yes
+preview: _site\assets\img\piano-thumbnail.png
 section: portfolio
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: content
 title:  Šváb
-preview: holder.js/300x300?auto=yes
+preview: _site\assets\img\sleep-thumbnail.png
 section: portfolio
 ---
 
