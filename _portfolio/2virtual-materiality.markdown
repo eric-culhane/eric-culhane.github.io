@@ -1,7 +1,7 @@
 ---
 layout: content
 title:  Virtual Materiality
-preview: holder.js/300x300?auto=yes
+preview: /assets/img/time-to-go-outside-version-4-loop-720p.gif?auto=yes
 section: portfolio
 ---
 
