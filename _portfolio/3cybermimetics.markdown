@@ -10,15 +10,15 @@ section: portfolio
 <!-- <img src="assets\img\CybermimeticsPoster.jpg" alt="Event Poster"> -->
 
 <br>
-<img src="assets\img\CyberGallery1.jpg" alt="Event Poster">
+<img src="\assets\img\CyberGallery1.jpg" alt="Gallery Exhibition">
 
 Performed on Dec. 6 and 7, 2019 at Pomona College as part of a year-long capstone project in fulfillment of a B.A. in Media Studies. A gallery document of the performance was later exhibited at Pitzer College’s Kallick Gallery. Recipient of the Scott Winslow Award in Media Studies.
 
-<img src="assets\img\CyberGallery2.jpg" alt="Event Poster">
+<img src="\assets\img\CyberGallery2.jpg" Video Monitor of Event in Gallery>
 
 I used the art of corporeal mime to examine the relationship between live performance and its documentation. The performance was an endurance piece, in which I performed a 3-minute composition 10 times in a row next to a pre-recorded film of the performance and a mirror. The audience could freely participate as observers in the space. By the end, my exhaustion affects my movement and I deviate more and more from the “original” performance video. 
 
-<img src="assets\img\CybermimeticsPoster.jpg" alt="Event Poster">
+<img src="\assets\img\CybermimeticsPoster.jpg" alt="Event Poster">
 
 In the second semester of my capstone, I continued research on the concepts from posthumanism, cybernetics, corporeal mime, and body art that informed this exhibition to write a 52-page paper, <a href="https://static1.squarespace.com/static/5eb5a9a60d283f416056d5c2/t/5ec2ace09053c9535e8b9ab1/1589816547872/Culhane+Capstone+Cybermimetics+Final+Version.pdf"><i>Cybermimetics: Corporeal Mime as a Model of Posthumanism.</i></a>
 
