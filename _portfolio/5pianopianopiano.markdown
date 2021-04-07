@@ -1,7 +1,7 @@
 ---
 layout: content
 title:  piano piano piano
-preview: _site\assets\img\piano-thumbnail.png
+preview: assets\img\piano-thumbnail.png
 section: portfolio
 ---
 
