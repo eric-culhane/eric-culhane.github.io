@@ -1,7 +1,7 @@
 ---
 layout: content
 title:  Šváb
-preview: assets\img\svab-thumbnail.png
+preview: \assets\img\svab-thumbnail.png
 section: portfolio
 ---
 
