@@ -10,6 +10,6 @@ section: portfolio
 <!-- <img src="assets\img\CybermimeticsPoster.jpg" alt="Event Poster"> -->
 
 <br>
-“Virtual Materiality” is a three-part series of GIF and video art exhibited as a part of the Connections Virtual Art Space in May 2020. I consider the relationship between digital presence and its connection to the material world at three levels: individual, society, and the state, exploring themes of climate disaster, resource privatization, mental health, and posthumanism.
+“Virtual Materiality” is a three-part series of GIF and video art exhibited as a part of the Connections Virtual Art Space in May 2020. I consider the relationship between digital presence and its connection to the material world at three levels: individual, society, and the state, exploring themes of climate disaster, resource privatization, and posthumanism.
 
 <a href="https://www.connectionsartspace.com/virtual-materiality">The exhibition can be found here.</a>

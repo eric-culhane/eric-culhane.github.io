@@ -1,7 +1,7 @@
 ---
 layout: content
 title:  Cybermimetics
-preview: holder.js/300x300?auto=yes
+preview: assets\img\cyber-thumbnail.png
 section: portfolio
 ---
 

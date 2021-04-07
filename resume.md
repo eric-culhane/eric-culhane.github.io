@@ -4,7 +4,7 @@ title: Resume
 permalink: /resume/
 ---
 
-[Here is my Resume]({{ '\assets\pdf\Eric_Culhane_Resume.pdf' | prepend: site.baseurl }})
+[Here is my Resume]({{ '\assets\pdf\Eric Culhane Art Resume 2021_April.pdf' | prepend: site.baseurl }})
 
 <!-- <object type="application/pdf"
     data="\assets\pdf\Eric_Culhane_Resume.pdf"
