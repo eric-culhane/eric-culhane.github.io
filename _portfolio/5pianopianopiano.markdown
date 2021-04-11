@@ -3,11 +3,12 @@ layout: content
 title:  piano piano piano
 preview: \assets\img\piano-thumbnail.png
 section: portfolio
+permalink: /pianopianopiano
 ---
 
 <!-- <div style="padding:56.31% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/326200777" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script> -->
 
-<iframe src="https://player.vimeo.com/video/245778070" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+<p align="center"><iframe src="https://player.vimeo.com/video/245778070" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe></p>
 
 
 <br>
