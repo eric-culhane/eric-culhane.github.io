@@ -15,7 +15,7 @@ permalink: /syntheric
 
 <br>
 
-<a href="https://ericculhane.wixsite.com/synthericsyntheric">syntheric is a website and video art piece</a> examining the relatioship between analog and digital synthesis. It includes an explanation of fundamental synthesis functions and a brief history of synthesis. Created in Spring 2019.
+<a href="https://ericculhane.wixsite.com/syntheric">syntheric is a website and video art piece</a> examining the relationship between analog and digital synthesis. It includes an explanation of fundamental synthesis functions and a brief history of synthesis. Created in Spring 2019.
 
 I wanted to represent the automated functions of modern digital synths by visualizing analog synthesizer functions. Digital synths are often mistaken to be “playing themselves”, generating their own preset sounds, chords, arpeggiations, and quantizations. Although all sounds in this work were produced by my own physical interaction with the synthesizer with no presets or patch memory, I have attempted to remove this human protocol from my performance of the synthesis process. I also attempt to visually capture the effects and functions of basic audio synthesis, in an effort to communicate the intricacies of the synthetic process.
 
