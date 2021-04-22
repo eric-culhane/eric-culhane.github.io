@@ -10,11 +10,11 @@ permalink: /reel2021
 
 <!-- <img src="assets\img\CybermimeticsPoster.jpg" alt="Event Poster"> -->
 
-<p align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/re79-aysA6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+<p align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/xn1NCF-z-VM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
 
 <br>
 
-All shots filmed and edited by Eric Culhane (using Adobe Premiere Pro and After Effects). 
+All shots filmed and edited by Eric Culhane. 
 <!-- Shots from Svab, Dear Mom, piano piano piano, Kline Academy promotion, syntheric, corporeal mime lessons -->
 <!-- Cameras used: Canon C100, Panasonic G85, Panasonic FZ2500, 16mm.
 Edited using Adobe Premiere Pro and After Effects. -->
