@@ -5,9 +5,9 @@ preview: \assets\img\banjeethumbnail.jpg
 section: portfolio
 permalink: /banjeeball2021
 ---
-
-<!--<p align="center"><img src="\assets\img\CyberGallery1.jpg" alt="Gallery Exhibition"></p> -->
-<p align="center"><img src="\assets\img\CyberGallery1.jpg"></p>
+Photographed by Eric Culhane for RyB Productions at the 2021 Banjee Ball at Los Globos as part of Los Angeles Pride. <a href="https://adobe.ly/2VfKqa1">More photos can be found here.</a>
+<br>
+<!--<p align="center"><img src="\assets\img\CyberGallery1.jpg" alt="Banjee Ball 2021"></p> -->
 <p align="center"><img src="\assets\img\BanjeeBall\banjee0.jpg"></p>
 <p align="center"><img src="\assets\img\BanjeeBall\banjee1.jpg"></p>
 <p align="center"><img src="\assets\img\BanjeeBall\banjee2.jpg"></p>
@@ -17,7 +17,3 @@ permalink: /banjeeball2021
 <p align="center"><img src="\assets\img\BanjeeBall\banjee5.jpg"></p>
 <p align="center"><img src="\assets\img\BanjeeBall\banjee6.jpg"></p>
 <p align="center"><img src="\assets\img\BanjeeBall\banjee7.jpg"></p>
-
-<br>
-
-Photographed by Eric Culhane for RyB Productions at the 2021 Banjee Ball at Los Globos as part of Los Angeles Pride. <a href="https://adobe.ly/2VfKqa1">More photos can be found here.</a>
