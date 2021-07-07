@@ -10,9 +10,14 @@ permalink: /virtual-materiality
 
 <!-- <img src="assets\img\CybermimeticsPoster.jpg" alt="Event Poster"> -->
 
-<p align="center"><img src="\assets\img\megan-river-gif---nuclear-anxiety.gif" alt="Nuclear Anxiety" width="250" height="auto"></p>
-
 <br>
 “Virtual Materiality” is a three-part series of GIF and video art exhibited as a part of the Connections Virtual Art Space in May 2020. I consider the relationship between digital presence and its connection to the material world at three levels: individual, society, and the state, exploring themes of climate disaster, resource privatization, and posthumanism.
 
-<a href="https://www.connectionsartspace.com/virtual-materiality">The exhibition can be found here.</a>
+<a href="https://www.connectionsartspace.com/virtual-materiality">The exhibition can be found here. EDIT: The exhibition has been closed. Find the series below:</a>
+
+<p align="center"><img src="\assets\img\megan-river-gif---nuclear-anxiety.gif" alt="Nuclear Anxiety" width="250" height="auto"></p>
+
+<p align="center"><img src="\assets\img\time-to-go-outside-version-4-loop-720p.gif?auto=yes" alt="Nuclear Anxiety" width="720" height="auto"></p>
+
+The following video contains a simulated emergency warning system:
+<iframe width="560" height="315" src="https://www.youtube.com/embed/N0Qn8A4HjwI" title="Earthquake Delivery" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
