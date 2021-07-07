@@ -6,13 +6,6 @@ section: portfolio
 permalink: /cybermimetics
 ---
 
-<!-- <div style="padding:56.31% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/326200777" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script> -->
-
-<!-- <img src="assets\img\CybermimeticsPoster.jpg" alt="Event Poster"> -->
-
-<br>
-<p align="center"><img src="\assets\img\CybermimeticsPoster.jpg" alt="Event Poster"></p>
-
 I used the art of corporeal mime to examine the relationship between live performance and its documentation. The performance was an endurance piece, in which I performed a 3-minute composition 10 times in a row next to a pre-recorded film of the performance and a mirror. The audience could freely participate as observers in the space. By the end, my exhaustion affects my movement and I deviate more and more from the “original” performance video. 
 
 Performed on Dec. 6 and 7, 2019 at Pomona College as part of a year-long Media Studies capstone project. A gallery document of the performance was later exhibited at Pitzer College’s Kallick Gallery. Recipient of the Scott Winslow Award in Media Studies.
@@ -22,6 +15,7 @@ In the second semester of my capstone, I continued research on the concepts from
 
 Video from the performance <a href="https://www.mediavaccine.org/work/eric-culhane">can be found here.</a>
 
+<p align="center"><img src="\assets\img\CybermimeticsPoster.jpg" alt="Event Poster"></p>
 <p align="center"><img src="\assets\img\CyberGallery1.jpg" alt="Gallery Exhibition"></p>
 <p align="center"><img src="\assets\img\CyberGallery2.jpg" alt="Video Monitor of Event in Gallery"></p>
 
