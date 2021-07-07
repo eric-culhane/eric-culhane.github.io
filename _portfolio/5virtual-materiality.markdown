@@ -20,4 +20,4 @@ permalink: /virtual-materiality
 <p align="center"><img src="\assets\img\time-to-go-outside-version-4-loop-720p.gif?auto=yes" alt="Nuclear Anxiety" width="720" height="auto"></p>
 
 The following video contains a simulated emergency warning system:
-<iframe width="560" height="315" src="https://www.youtube.com/embed/N0Qn8A4HjwI" title="Earthquake Delivery" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<p align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/N0Qn8A4HjwI" title="Earthquake Delivery" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
