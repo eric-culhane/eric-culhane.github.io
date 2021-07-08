@@ -12,6 +12,8 @@ Performed on Dec. 6 and 7, 2019 at Pomona College as part of a year-long Media S
 
 In the second semester of my capstone, I continued research on concepts from posthumanism, cybernetics, corporeal mime, and body art that informed this exhibition to write a 52-page paper, <a href="https://static1.squarespace.com/static/5eb5a9a60d283f416056d5c2/t/5ec2ace09053c9535e8b9ab1/1589816547872/Culhane+Capstone+Cybermimetics+Final+Version.pdf"><i>Cybermimetics: Corporeal Mime as a Model of Posthumanism.</i></a>
 
+"Corporeal mime primarily relies on the unmediated presence of the actor, but how does the mime use the human body as a form of media? With no external media to rely on, how does corporeal mime invoke a cybernetic system? In order to examine these notions, I discuss interrelated ideas posited in the fields of cybernetics, posthumanism, body art and corporeal mime... Although there is not a strong preexisting relationship between the fields of corporeal mime and media studies, I argue that media, in the form of the human body, is integral to corporeal mime... and consider ways in which corporeal mime can explore and express cybernetic relationships."
+
 
 Video from the performance <a href="https://www.mediavaccine.org/work/eric-culhane">can be found here.</a>
 
