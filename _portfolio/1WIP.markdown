@@ -7,6 +7,9 @@ permalink: /wip
 ---
 Various ideas and experiments created throughout quarantine. All videos loop.
 
+<p align="center">"Brainhole Logo (SoM Exercise)"</p>
+<iframe src="https://player.vimeo.com/video/574082941?loop=1&title=0&byline=0&portrait=0" width="480" height="270" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+
 <p align="center">"noise in space"</p>
 <p align="center"><iframe src="https://player.vimeo.com/video/572308886?loop=1&portrait=0" width="480" height="270" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe></p>
 
