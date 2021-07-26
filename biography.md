@@ -4,7 +4,7 @@ title: Biography
 permalink: /biography/
 ---
 
-[Resume.]({{ '\assets\pdf\Eric Culhane Art Resume 2021_April.pdf' | prepend: site.baseurl }})
+[Resume is here.]({{ '\assets\pdf\Eric Culhane Assistant Editing Resume.pdf' | prepend: site.baseurl }})
 
 Editor, cinematographer, corporeal mime, and new media artist based in Los Angeles. 
 
