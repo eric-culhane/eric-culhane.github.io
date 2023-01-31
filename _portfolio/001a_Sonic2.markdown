@@ -7,6 +7,6 @@ permalink: /S2TNQ
 ---
 
 
-<body><center><iframe width="560" height="315" src="https://www.youtube.com/watch?v=dhVBuOhmNVc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center></body>
+<body><center><iframe width="560" height="315" src="https://www.youtube.com/embed/dhVBuOhmNVc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></center></body>
 
-Assistant Editor on Nickelodeon exclusive TV broadcast.
+Collaborated with two other editors on Nickelodeon exclusive TV broadcast.
