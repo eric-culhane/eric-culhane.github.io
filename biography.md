@@ -11,6 +11,6 @@ Editor and assistant editor experienced in creating engaging home entertainment,
 
 B.A. in Media Studies from Pomona College.
 
-Contact: eric.culhane@gmail.com
-<a href="https://www.linkedin.com/in/eric-culhane/">Connect with me on LinkedIn</a>
+Contact: eric.culhane@gmail.com or
+<a href="https://www.linkedin.com/in/eric-culhane/">connect with me on LinkedIn</a>
 
