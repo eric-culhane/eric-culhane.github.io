@@ -1,7 +1,7 @@
 ---
 layout: content
 title:  The Peripheral - Danger on the Horizon | Amazon Prime Video
-preview: \assets\img\FITD thumbnail.png
+preview: \assets\img\FutureMadeRealThumb.jpg
 section: portfolio
 permalink: /TPDOTH
 ---
