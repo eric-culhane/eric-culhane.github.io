@@ -1,0 +1,10 @@
+---
+layout: content
+title:  Black Adam - The History of Black Adam | Warner Bros.
+preview: \assets\img\HistoryBAThumb.jpg
+section: portfolio
+permalink: /BATHBA
+---
+
+
+<body><center><iframe width="560" height="315" src="https://www.youtube.com/watch?v=I9B6rwW35GQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center></body>

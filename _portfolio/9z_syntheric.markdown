@@ -1,4 +1,4 @@
----
+<!-- ---
 layout: content
 title:  syntheric
 preview: \assets\img\syntheric-thumbnail.png
@@ -24,4 +24,4 @@ I wanted to represent the automated functions of modern digital synths by visual
 
 
 
-
+ -->

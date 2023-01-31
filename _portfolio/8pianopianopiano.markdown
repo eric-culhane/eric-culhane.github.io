@@ -1,4 +1,4 @@
----
+<!-- ---
 layout: content
 title:  piano piano piano
 preview: \assets\img\piano-thumbnail.png
@@ -13,4 +13,4 @@ permalink: /pianopianopiano
 
 <br>
 Inspired by the short film Ballet Mécanique (Fernand Léger and Dudley Murphy, 1924), I explore how meaning is constructed and deconstructed through repetition and context. I investigate the idea of a performer as a machine and the relationship between public and private life. December 2017.
-
+ -->
