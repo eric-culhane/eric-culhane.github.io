@@ -1,7 +1,7 @@
 ---
 layout: content
 title: Design and Animation Reel | Narrator Inc.
-preview: \assets\img\nr8rThumb.jpg
+preview: \assets\img\nr8rthumb.png
 section: portfolio
 permalink: /TPTFMR
 ---
