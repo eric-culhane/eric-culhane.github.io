@@ -7,10 +7,14 @@ permalink: /biography/
 Connect with me on LinkedIn.
 [Resume.]({{ '\assets\pdf\Eric Culhane Assistant Editing Resume.pdf' | prepend: site.baseurl }}) -->
 
+
+
+Contact: eric.culhane@gmail.com or
+<a href="https://www.linkedin.com/in/eric-culhane/">connect with me on LinkedIn</a>
+
 Editor and assistant editor experienced in creating engaging home entertainment, pre-release, and custom content videos for theatrical film marketing. Passionate about cutting a variety of content, including narrative film, music videos and experimental short-form work. Versatile experience creating innovative, stylized pieces that engage audiences and support dynamic entertainment campaigns. 
 
 B.A. in Media Studies from Pomona College.
 
-Contact: eric.culhane@gmail.com or
-<a href="https://www.linkedin.com/in/eric-culhane/">connect with me on LinkedIn</a>
+
 
