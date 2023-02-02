@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Biography
-permalink: /biography/
+title: About Me
+permalink: /aboutme/
 ---
 <!-- 
 Connect with me on LinkedIn.
@@ -10,9 +10,9 @@ Connect with me on LinkedIn.
 
 
 Contact: eric.culhane@gmail.com or
-<a href="https://www.linkedin.com/in/eric-culhane/">connect with me on LinkedIn</a>
+<a href="https://www.linkedin.com/in/eric-culhane/">Connect with me on LinkedIn</a>
 
-Editor and assistant editor experienced in creating engaging home entertainment, pre-release, and custom content videos for theatrical film marketing. Passionate about cutting a variety of content, including narrative film, music videos and experimental short-form work. Versatile experience creating innovative, stylized pieces that engage audiences and support dynamic entertainment campaigns. 
+Editor and assistant editor experienced in creating engaging home entertainment, pre-release, and custom content videos for theatrical film marketing. Passionate about cutting a variety of content, including narrative film, music videos and experimental short-form work. Versatile experience creating innovative, stylized pieces that engage audiences and support dynamic entertainment marketing campaigns. 
 
 B.A. in Media Studies from Pomona College.
 
