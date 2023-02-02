@@ -11,11 +11,14 @@ Connect with me on LinkedIn.
 
 Contact: eric.culhane@gmail.com or <a href="https://www.linkedin.com/in/eric-culhane/">connect with me on LinkedIn</a> 
 <br>
-<br>[Resume.]({{ '\assets\pdf\Eric Culhane Resume February 2023.pdf' | prepend: site.baseurl }})
 
-Editor and assistant editor experienced in creating engaging home entertainment, pre-release, and custom content videos for theatrical film marketing. Passionate about cutting a variety of content, including narrative film, music videos and experimental short-form work. Versatile experience creating innovative, stylized pieces that engage audiences and support dynamic entertainment marketing campaigns. 
-
+Editor and assistant editor experienced in creating engaging home entertainment and pre-release content for theatrical film marketing. 
+<br>Demonstrated history of creating innovative, stylized pieces that engage audiences and support dynamic entertainment marketing campaigns from Warner Bros, Paramount, Amazon, Lionsgate and more.
+<br> Passionate about cutting in a variety of styles and genres, with experience in narrative film, documentary, montage and experimental short-form work. 
+<br> Prompt communicator, highly motivated, and prioritizes efficient workflows.
+<br>
+<br>
 B.A. in Media Studies from Pomona College.
-
+<br>[Resume.]({{ '\assets\pdf\Eric Culhane Resume February 2023.pdf' | prepend: site.baseurl }})
 
 
