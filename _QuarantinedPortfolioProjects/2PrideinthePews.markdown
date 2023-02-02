@@ -1,4 +1,4 @@
----
+<!-- ---
 layout: content
 title:  Pride in the Pews Digital Campaign
 preview: \assets\img\PITP_LOGO_thumbnail_website.png
@@ -14,4 +14,4 @@ Edited for Pride in the Pews: Black LGBTQIA+ Reading of the Emancipation Proclam
 
 
 
-
+ -->

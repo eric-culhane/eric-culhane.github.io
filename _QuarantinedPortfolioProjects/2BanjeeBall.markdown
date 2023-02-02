@@ -1,4 +1,4 @@
----
+<!-- ---
 layout: content
 title:  Banjee Ball Event Photography
 preview: \assets\img\banjeethumbnail.jpg
@@ -15,4 +15,4 @@ Photographed by Eric Culhane for RyB Productions at the 2021 Banjee Ball at Los 
 <p align="center"><img src="\assets\img\BanjeeBall\banjee4.jpg"></p>
 <p align="center"><img src="\assets\img\BanjeeBall\banjee5.jpg"></p>
 <p align="center"><img src="\assets\img\BanjeeBall\banjee6.jpg"></p>
-<p align="center"><img src="\assets\img\BanjeeBall\banjee7.jpg"></p>
+<p align="center"><img src="\assets\img\BanjeeBall\banjee7.jpg"></p> -->

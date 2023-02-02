@@ -12,7 +12,8 @@ permalink: /STNQ
 Assistant Editor, May 2022. -->
 
 
-Other credits: The Making of Jesus Revolution
+Other credits: 
+The Making of Jesus Revolution
 Shazam 2 Fury of the Gods (three pieces)
 
 
@@ -21,3 +22,5 @@ Scream 5 - Gale Weathers - Paramount
 Scream 5 - Whodunnit Series (1x1 and 9x16s for social) - Paramount
 The Matrix International Pieces
 Don't Look Up Seriously Funny Adam McKay
+Pics? 
+ViacomCBS thing for Marianna

@@ -1,4 +1,4 @@
----
+<!-- ---
 layout: content
 title:  Editing Reel 2021
 preview: \assets\img\reel_thumbnail.jpg
@@ -21,4 +21,4 @@ Edited using Adobe Premiere Pro and After Effects. -->
 
 
 
-
+ -->

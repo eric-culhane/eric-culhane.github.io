@@ -1,4 +1,4 @@
----
+<!-- ---
 layout: content
 title:  Sleep Cycle
 preview: \assets\img\sleep-thumbnail.png
@@ -13,4 +13,4 @@ permalink: /sleep-cycle
 <p align="center"><iframe src="https://player.vimeo.com/video/242810116" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe></p>
 
 <br>
-Sleep Cycle is an intimate self-portrait combining performance with projections of my childhood photographs and videos. Inspired after seeing Robert Rauschenberg's "Bed" (1955), I created this multimedia video art/performance piece to explore feelings of nostalgia, masculinity, gender performativity, and mental health. November 2017.
+Sleep Cycle is an intimate self-portrait combining performance with projections of my childhood photographs and videos. Inspired after seeing Robert Rauschenberg's "Bed" (1955), I created this multimedia video art/performance piece to explore feelings of nostalgia, masculinity, gender performativity, and mental health. November 2017. -->
