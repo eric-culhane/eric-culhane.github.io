@@ -10,11 +10,11 @@
 // Color
 // ––––––––––––––––––––––––––––––––––––––––––––––––––
 
-$color-initial: rgb(0, 0, 0) !default;
-$color-primary: #ffffff !default;
-$color-secondary: #ffffff !default;
-$color-tertiary: #0f0f0f !default;
-$color-quaternary: #535353 !default;
-$color-quinary: #1f1f1f !default;
+$color-initial: #fff !default;
+$color-primary: #000000 !default;
+$color-secondary: #000000 !default;
+$color-tertiary: #f4f5f6 !default;
+$color-quaternary: #d1d1d1 !default;
+$color-quinary: #e1e1e1 !default;
 $color-link: rgb(0, 152, 202) !default;
 $color-link-hover:  darken($color-link, 15%);

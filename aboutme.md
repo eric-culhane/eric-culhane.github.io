@@ -12,8 +12,12 @@ Connect with me on LinkedIn.
 Contact: eric.culhane@gmail.com or <a href="https://www.linkedin.com/in/eric-culhane/">connect with me on LinkedIn</a> 
 <br>
 <<<<<<< HEAD
+<<<<<<< HEAD
 <br>
 [Resume.]({{ '\assets\pdf\Eric Culhane Resume February 2023.pdf' | prepend: site.baseurl }})
+=======
+<br>[Resume.]({{ '\assets\pdf\Eric Culhane Resume February 2023.pdf' | prepend: site.baseurl }})
+>>>>>>> parent of ef6f2fd (invert colors second try)
 <br>
 =======
 
