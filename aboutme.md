@@ -11,7 +11,8 @@ Connect with me on LinkedIn.
 
 Contact: eric.culhane@gmail.com or <a href="https://www.linkedin.com/in/eric-culhane/">connect with me on LinkedIn</a> 
 <br>
-<br>[Resume.]({{ '\assets\pdf\Eric Culhane Resume February 2023.pdf' | prepend: site.baseurl }})
+<br>
+[Resume.]({{ '\assets\pdf\Eric Culhane Resume February 2023.pdf' | prepend: site.baseurl }})
 <br>
 Editor and assistant editor experienced in creating engaging home entertainment and pre-release content for theatrical film marketing. 
 <br>
