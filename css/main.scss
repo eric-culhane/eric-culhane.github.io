@@ -65,7 +65,7 @@ $grey-color-dark:  darken($grey-color, 25%);
 
 .nav-item-div :hover, .nav-item-div :focus, .nav-item-div :active
         {
-        background-color: rgb(255, 255, 255);
+        background-color: rgb(0, 0, 0);
         // display: inline-block;
         color: #000000;
 
@@ -162,5 +162,5 @@ span.keeptogether {
         font-size: 0.3em;
 }
 
-body, a, p {color: #fff;}
-body, .site-header {background: #000000;}
+body, a, p {color: #ffffff;}
+body, .site-header {background: #030303;}
