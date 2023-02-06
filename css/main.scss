@@ -65,9 +65,9 @@ $grey-color-dark:  darken($grey-color, 25%);
 
 .nav-item-div :hover, .nav-item-div :focus, .nav-item-div :active
         {
-        background-color: black;
+        background-color: rgb(255, 255, 255);
         // display: inline-block;
-        color: #ffffff;
+        color: #000000;
 
 }
 
@@ -94,7 +94,7 @@ $grey-color-dark:  darken($grey-color, 25%);
 
 .nav-item :hover, .nav-item :focus, .nav-item :active, .nav-item-current :hover, .nav-item-current :focus, .nav-item-current :active  {
         text-decoration: underline;
-        color: #ffffff;
+        color: #000000;
         // color: lighten($color-primary, 100%);
 }
 
@@ -163,4 +163,4 @@ span.keeptogether {
 }
 
 body, a, p {color: #fff;}
-body, .site-header {background: #333;}
+body, .site-header {background: #000000;}
