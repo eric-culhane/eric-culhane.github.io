@@ -12,15 +12,12 @@ Connect with me on LinkedIn.
 Contact: eric.culhane@gmail.com or <a href="https://www.linkedin.com/in/eric-culhane/">connect with me on LinkedIn</a> 
 <br>
 <br>
-[Resume.]({{ '\assets\pdf\Eric Culhane Resume February 2023.pdf' | prepend: site.baseurl }})
+[Resume]({{ '\assets\pdf\Eric Culhane Resume February 2023.pdf' | prepend: site.baseurl }})
 <br>
 <br>
-Editor and assistant editor experienced in creating engaging home entertainment and pre-release content for theatrical film marketing. 
-<br>
-Demonstrated history of creating innovative, stylized pieces that engage audiences and support dynamic entertainment marketing campaigns from Warner Bros, Paramount, Amazon, Lionsgate and more.
-<br> 
-Passionate about cutting in a variety of styles and genres, with experience in narrative film, documentary, montage and experimental short-form work. 
-<br> 
-Prompt communicator, highly motivated, and prioritizes efficient workflows.
+Editor based in Los Angeles. I primarily cut home entertainment and pre-release content for theatrical film marketing. 
 
+I also have experience cutting narrative film, documentary, montage and experimental short-form work.
+
+With extensive experience supporting film marketing campaigns from several major studios (Warner Bros, Paramount, Amazon, Lionsgate, etc.), I enjoy cutting innovative, stylized pieces that engage audiences and support each campaign's creative vision.
 
