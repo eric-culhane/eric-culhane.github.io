@@ -55,7 +55,7 @@ $grey-color-dark:  darken($grey-color, 25%);
 
 @media (min-width:349px) {
         .nav-item-div {
-                background-color: white;
+                background-color: #0c0c0c;
                 display: inline-block;
         
         }
@@ -65,9 +65,9 @@ $grey-color-dark:  darken($grey-color, 25%);
 
 .nav-item-div :hover, .nav-item-div :focus, .nav-item-div :active
         {
-        background-color: rgb(0, 0, 0);
+        background-color: rgb(255, 255, 255);
         // display: inline-block;
-        color: #000000;
+        color: #0c0c0c;
 
 }
 
@@ -88,13 +88,13 @@ $grey-color-dark:  darken($grey-color, 25%);
         display: block;
         padding: 1rem;
         margin: 0px;
-        font-weight: bold;
+        // font-weight: bold;
         // color: $color-primary;
 }
 
 .nav-item :hover, .nav-item :focus, .nav-item :active, .nav-item-current :hover, .nav-item-current :focus, .nav-item-current :active  {
         text-decoration: underline;
-        color: #ffffff;
+        color: #0c0c0c;
         // color: lighten($color-primary, 100%);
 }
 
@@ -115,7 +115,7 @@ span.keeptogether {
         padding-left: 1rem;
         padding-right: 1rem;
         padding-top: 1rem;
-        font-weight: bold;
+        // font-weight: bold;
       }
 .nav-item {
         display: inline-block;
@@ -163,4 +163,4 @@ span.keeptogether {
 }
 
 body, a, p {color: #ffffff;}
-body, .site-header {background: #030303;}
+body, .site-header {background: #0c0c0c;}

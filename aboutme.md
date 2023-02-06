@@ -19,5 +19,5 @@ Editor based in Los Angeles. I primarily cut home entertainment and pre-release 
 
 I also have experience cutting narrative film, documentary, montage and experimental short-form work.
 
-With extensive experience supporting film marketing campaigns from several major studios (Warner Bros, Paramount, Amazon, Lionsgate, etc.), I enjoy cutting innovative, stylized pieces that engage audiences and support each campaign's creative vision.
+With extensive experience supporting film marketing campaigns from major studios (Warner Bros, Paramount, Amazon, Lionsgate), I enjoy cutting innovative, stylized pieces that engage audiences and support each campaign's creative vision.
 
