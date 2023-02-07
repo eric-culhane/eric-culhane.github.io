@@ -1,6 +1,6 @@
 ---
 layout: content
-title:  Cybermimetics
+title:  <b>Cybermimetics</b>
 preview: \assets\img\cyber-thumbnail.png
 section: portfolio
 permalink: /cybermimetics

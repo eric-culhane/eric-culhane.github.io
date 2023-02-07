@@ -1,6 +1,6 @@
 ---
 layout: content
-title:  The Peripheral - Clanton vs London Featurette | Amazon Prime Video
+title:  <b>The Peripheral</b> — Clanton vs London
 preview: \assets\img\PeripheralLondonThumb.jpg
 section: portfolio
 permalink: /TPCVL

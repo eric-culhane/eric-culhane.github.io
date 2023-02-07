@@ -1,6 +1,6 @@
 ---
 layout: content
-title:  Black Adam - The History of Black Adam | Warner Bros.
+title:  <b>Black Adam</b> — The History of Black Adam
 preview: \assets\img\HistoryBAThumb.jpg
 section: portfolio
 permalink: /BATHBA

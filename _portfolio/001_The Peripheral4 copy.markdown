@@ -1,6 +1,6 @@
 ---
 layout: content
-title:  The Peripheral - The Future Made Real | Amazon Prime Video
+title:  <b>The Peripheral</b> | The Future Made Real
 preview: \assets\img\FutureMadeRealThumb.jpg
 section: portfolio
 permalink: /TPTFMR

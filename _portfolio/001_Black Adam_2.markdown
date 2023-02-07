@@ -1,6 +1,6 @@
 ---
 layout: content
-title:  Black Adam - Who is the Justice Society? | Warner Bros.
+title: <b>Black Adam</b> — Who is the Justice Society?
 preview: \assets\img\JusticeSocietyThumb.jpg
 section: portfolio
 permalink: /BAWITJS

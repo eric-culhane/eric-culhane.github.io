@@ -1,6 +1,6 @@
 ---
 layout: content
-title:  The Peripheral - Futures Near and Far | Amazon Prime Video
+title:  <b>The Peripheral</b> — Futures Near and Far
 preview: \assets\img\NearFarThumbnail.jpg
 section: portfolio
 permalink: /TPFNAF

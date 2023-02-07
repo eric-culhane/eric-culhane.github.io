@@ -1,6 +1,6 @@
 ---
 layout: content
-title:  Sonic the Hedgehog 2 - Thrills and Quills | Nickelodeon
+title:  <b>Sonic the Hedgehog 2</b> — Thrills and Quills
 preview: \assets\img\sonicthumb.jpg
 section: portfolio
 permalink: /S2TNQ

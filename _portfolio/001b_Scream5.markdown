@@ -1,6 +1,6 @@
 ---
 layout: content
-title:  Scream (2022) Tonight with Gale Weathers | Paramount
+title:  <b>Scream (2022)</b> — Tonight with Gale Weathers
 preview: \assets\img\screamthumb4.jpg
 section: portfolio
 permalink: /S5TWGW
