@@ -1,7 +1,7 @@
 ---
 layout: content
 title:  <b>The Peripheral</b> — Futures Near and Far
-preview: \assets\img\NearFarThumbnail.jpg
+preview: \assets\img\ep2thumb.jpg
 section: portfolio
 permalink: /TPFNAF
 ---

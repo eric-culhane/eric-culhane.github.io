@@ -7,15 +7,28 @@ permalink: /aboutme/
 Connect with me on LinkedIn.
 [Resume.]({{ '\assets\pdf\Eric Culhane Assistant Editing Resume.pdf' | prepend: site.baseurl }}) -->
 
+<center>
+Editor based in Los Angeles. <br>
+Contact: eric.culhane@gmail.com <br>
+<a href="http://eric-culhane.com/assets/pdf/Eric%20Culhane%20Resume%20February%202023.pdf">Resume</a> <br>
+<a href="https://www.linkedin.com/in/eric-culhane/">LinkedIn</a> <br>
+</center>
 
+
+
+
+
+<!-- 
 Editor based in Los Angeles.
+
+[Resume]({{ '\assets\pdf\Eric Culhane Resume 2023.pdf' | prepend: site.baseurl }})
+
 
 Contact: eric.culhane@gmail.com or <a href="https://www.linkedin.com/in/eric-culhane/">connect with me on LinkedIn</a> 
 <br>
-<br>
-[Resume]({{ '\assets\pdf\Eric Culhane Resume February 2023.pdf' | prepend: site.baseurl }})
-<br>
-<br>
+<br> -->
+
+
 
 <!-- I primarily cut home entertainment and pre-release content for theatrical film marketing, with experience supporting a variety of campaigns from major studios (Warner Bros, Paramount, Amazon, Lionsgate and more). -->
 
