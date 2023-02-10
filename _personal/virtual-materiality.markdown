@@ -1,6 +1,7 @@
 ---
 layout: content
 title:  virtual materiality
+section: personal
 preview: /assets/img/time-to-go-outside-version-4-loop-720p.gif?auto=yes
 ---
 

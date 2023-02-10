@@ -2,7 +2,7 @@
 layout: content
 title:  <b>The Peripheral</b> — Danger on the Horizon
 preview: \assets\img\ep4thumb.jpg
-section: portfolio
+section: commercial
 permalink: /TPDOTH
 ---
 

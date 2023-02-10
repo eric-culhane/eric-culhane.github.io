@@ -2,7 +2,7 @@
 layout: content
 title:  <b>Cybermimetics</b>
 preview: \assets\img\cyber-thumbnail.png
-section: portfolio
+section: personal
 permalink: /cybermimetics
 ---
 

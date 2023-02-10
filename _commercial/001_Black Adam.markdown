@@ -2,7 +2,7 @@
 layout: content
 title:  <b>Black Adam</b> — The History of Black Adam
 preview: \assets\img\HistoryBAThumb.jpg
-section: portfolio
+section: commercial
 permalink: /BATHBA
 ---
 

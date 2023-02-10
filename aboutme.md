@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About Me
-permalink: /aboutme/
+title: Contact
+permalink: /contact/
 ---
 <!-- 
 Connect with me on LinkedIn.
@@ -9,7 +9,7 @@ Connect with me on LinkedIn.
 
 <center>
 Editor based in Los Angeles. <br>
-Contact: eric.culhane@gmail.com <br>
+eric.culhane@gmail.com <br>
 <a href="http://eric-culhane.com/assets/pdf/Eric%20Culhane%20Resume%20February%202023.pdf">Resume</a> <br>
 <a href="https://www.linkedin.com/in/eric-culhane/">LinkedIn</a> <br>
 </center>

@@ -2,7 +2,7 @@
 layout: content
 title: <b>Black Adam</b> — Who is the Justice Society?
 preview: \assets\img\JusticeSocietyThumb.jpg
-section: portfolio
+section: commercial
 permalink: /BAWITJS
 ---
 

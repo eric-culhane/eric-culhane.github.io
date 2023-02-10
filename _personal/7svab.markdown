@@ -2,7 +2,7 @@
 layout: content
 title:  <b>Šváb</b>
 preview: \assets\img\svab-thumbnail.png
-section: portfolio
+section: personal
 permalink: /svab
 ---
 

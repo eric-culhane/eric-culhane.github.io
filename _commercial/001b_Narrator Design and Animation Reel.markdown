@@ -2,7 +2,7 @@
 layout: content
 title: <b>Narrator Inc.</b> — Design and Animation Reel
 preview: \assets\img\nr8rThumb.jpg
-section: portfolio
+section: commercial
 permalink: /TPTFMR
 ---
 

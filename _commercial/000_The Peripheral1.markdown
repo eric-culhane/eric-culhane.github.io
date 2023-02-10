@@ -2,7 +2,7 @@
 layout: content
 title:  <b>The Peripheral</b> — Clanton vs London
 preview: \assets\img\PeripheralLondonThumb.jpg
-section: portfolio
+section: commercial
 permalink: /TPCVL
 ---
 

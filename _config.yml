@@ -11,14 +11,19 @@ github_username:
 
 # Collections:
 collections:
+  commercial:
+     output: true
+  personal:
+     output: true
   # editing:
+  #   output: true
+  # portfolio:
   #   output: true
   # new-media:
   #   output: true
   # videography:
   #   output: true
-  portfolio:
-    output: true
+
 
 
 # Build settings
