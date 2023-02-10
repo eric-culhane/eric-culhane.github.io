@@ -68,6 +68,7 @@ $grey-color-dark:  darken($grey-color, 25%);
         background-color: rgb(255, 255, 255);
         // display: inline-block;
         color: #0c0c0c;
+        // font-weight: bold;
 
 }
 
@@ -88,13 +89,13 @@ $grey-color-dark:  darken($grey-color, 25%);
         display: block;
         padding: 1rem;
         margin: 0px;
-        // font-weight: bold;
+        font-weight: bold;
         // color: $color-primary;
 }
 
 .nav-item :hover, .nav-item :focus, .nav-item :active, .nav-item-current :hover, .nav-item-current :focus, .nav-item-current :active  {
         text-decoration: underline;
-        color: #0c0c0c;
+        color: #0c0c0c;  
         // color: lighten($color-primary, 100%);
 }
 
@@ -115,7 +116,7 @@ span.keeptogether {
         padding-left: 1rem;
         padding-right: 1rem;
         padding-top: 1rem;
-        // font-weight: bold;
+        font-weight: bold;
       }
 .nav-item {
         display: inline-block;
