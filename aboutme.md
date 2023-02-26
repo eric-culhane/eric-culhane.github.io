@@ -10,7 +10,7 @@ Connect with me on LinkedIn.
 <center>
 Editor based in Los Angeles. <br>
 eric.culhane@gmail.com <br>
-<a href="http://eric-culhane.com/assets/pdf/Eric%20Culhane%20Resume%20February%202023.pdf">Resume</a> <br>
+<a href="http://eric-culhane.com/assets/pdf/Eric%20Culhane%20Resume%202023%20February.pdf">Resume</a> <br>
 <a href="https://www.linkedin.com/in/eric-culhane/">LinkedIn</a> <br>
 </center>
 
