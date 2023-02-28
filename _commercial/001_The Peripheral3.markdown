@@ -1,6 +1,6 @@
 ---
 layout: content
-title:  <b>The Peripheral</b> — Danger on the Horizon
+title:  <b>The Peripheral</b> <br>Danger on the Horizon
 preview: \assets\img\ep4thumb.jpg
 section: commercial
 permalink: /TPDOTH

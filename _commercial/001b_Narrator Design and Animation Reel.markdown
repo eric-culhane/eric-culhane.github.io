@@ -1,6 +1,6 @@
 ---
 layout: content
-title: <b>Narrator Inc.</b> — Design and Animation Reel
+title: <b>Narrator Inc.</b> <br>Design/Animation Reel
 preview: \assets\img\nr8rThumbnail.jpg
 section: commercial
 permalink: /TPTFMR

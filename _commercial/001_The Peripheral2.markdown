@@ -1,6 +1,6 @@
 ---
 layout: content
-title:  <b>The Peripheral</b> — Futures Near and Far
+title:  <b>The Peripheral</b> <br>Futures Near and Far
 preview: \assets\img\ep2thumb.jpg
 section: commercial
 permalink: /TPFNAF

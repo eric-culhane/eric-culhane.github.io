@@ -1,6 +1,6 @@
 ---
 layout: content
-title:  <b>Šváb</b>
+title:  <b>Šváb</b> <br> Short Film
 preview: \assets\img\svab-thumbnail.png
 section: personal
 permalink: /svab

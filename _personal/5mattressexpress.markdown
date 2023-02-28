@@ -1,6 +1,6 @@
 ---
 layout: content
-title:  <b>Mattress Express</b>
+title:  <b>Mattress Express</b> <br> Short Film
 preview: \assets\img\mattressthumbnail.png
 section: personal
 permalink: /mattressexpress
