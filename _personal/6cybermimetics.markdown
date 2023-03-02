@@ -1,6 +1,6 @@
 ---
 layout: content
-title:  <b>Cybermimetics</b> <br> Installation
+title:  <b>Cybermimetics</b> <br> <i>Installation</i>
 preview: \assets\img\cyber-thumbnail.png
 section: personal
 permalink: /cybermimetics

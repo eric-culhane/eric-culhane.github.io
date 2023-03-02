@@ -1,7 +1,7 @@
 ---
 layout: content
-title:  <b>The Peripheral</b> <br>Clanton vs London
-preview: \assets\img\PeripheralLondonThumb.jpg
+title:  <b>The Peripheral</b> <i>Theatrical Promo</i>
+preview: \assets\img\PeripheralLondonThumb_notext.png
 section: commercial
 permalink: /TPCVL
 ---

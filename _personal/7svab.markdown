@@ -1,6 +1,6 @@
 ---
 layout: content
-title:  <b>Šváb (Cockroach)</b> <br> Short Film
+title:  <b>Šváb (Cockroach)</b> <i><br>16mm Short Film</i>
 preview: \assets\img\svab-thumbnail.png
 section: personal
 permalink: /svab

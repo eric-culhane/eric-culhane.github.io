@@ -7,8 +7,11 @@ permalink: /about/
 Connect with me on LinkedIn.
 [Resume.]({{ '\assets\pdf\Eric Culhane Assistant Editing Resume.pdf' | prepend: site.baseurl }}) -->
 
+<!-- <center> -->
+Eric Culhane is an editor based in Los Angeles with expertise in creating engaging home entertainment, promotional, and custom content videos for theatrical film marketing. <br><br>
+He has demonstrated experience creating innovative, stylized pieces that engage film audiences and support dynamic marketing campaigns. A good communicator and team player, he particularly enjoys collaborating on pieces that incorporate animation, VFX, and immersive sound design.<br><br>
+In his free time he enjoys experimenting with vintage synthesizers, juggling, and hiking. <br><br>
 <center>
-Editor based in Los Angeles. <br>
 Contact: eric.culhane@gmail.com <br>
 <br>
 <a href="http://eric-culhane.com/assets/pdf/Eric%20Culhane%20Resume%202023%20March.pdf">Resume</a> <br>
