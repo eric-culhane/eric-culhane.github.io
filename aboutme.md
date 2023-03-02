@@ -9,7 +9,7 @@ Connect with me on LinkedIn.
 
 <!-- <center> -->
 Eric Culhane is an editor based in Los Angeles with expertise in creating engaging home entertainment, promotional, and custom content videos for theatrical film marketing. <br><br>
-He has demonstrated experience creating innovative, stylized pieces that engage film audiences and support dynamic marketing campaigns. A good communicator and team player, he particularly enjoys collaborating on pieces that incorporate animated elements, VFX, and immersive sound design.<br><br>
+He has demonstrated experience creating innovative, stylized pieces that engage film audiences and support dynamic marketing campaigns. A good communicator and team player, he particularly enjoys collaborating on pieces that incorporate animated elements, VFX, and immersive sound design. He primarily works in Adobe Premiere or Avid MC, with versatile experience in a variety of workflows and creative environments.<br><br>
 In his free time he enjoys experimenting with vintage synthesizers, juggling, and hiking. <br><br>
 <center>
 Contact: eric.culhane@gmail.com <br>
