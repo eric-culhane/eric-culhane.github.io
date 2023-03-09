@@ -1,6 +1,6 @@
 ---
 layout: content
-title:  <b>The Peripheral</b> <i>Theatrical Promo</i>
+title:  <b>The Peripheral</b> <br> <i>Theatrical Promo</i>
 preview: \assets\img\PeripheralLondonThumb_notext.png
 section: commercial
 permalink: /TPCVL

@@ -1,6 +1,6 @@
 ---
 layout: content
-title:  <b>The Peripheral</b> <i>Featurette</i>
+title:  <b>The Peripheral</b> <br> <i>Featurette</i>
 preview: \assets\img\ep2thumb_notext.png
 section: commercial
 permalink: /TPFNAF

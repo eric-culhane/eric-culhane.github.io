@@ -8,8 +8,8 @@ Connect with me on LinkedIn.
 [Resume.]({{ '\assets\pdf\Eric Culhane Assistant Editing Resume.pdf' | prepend: site.baseurl }}) -->
 
 <!-- <center> -->
-Eric Culhane is an editor based in Los Angeles with expertise in creating engaging home entertainment, promotional, and custom content videos for theatrical film marketing. <br><br>
-He has demonstrated experience creating innovative, stylized pieces that engage film audiences and support dynamic marketing campaigns. A good communicator and team player, he particularly enjoys collaborating on pieces that incorporate animated elements, VFX, and immersive sound design. He primarily works in Adobe Premiere or Avid MC, with versatile experience in a variety of workflows and creative environments.<br><br>
+Eric Culhane is an editor based in Los Angeles with expertise in creating home entertainment, promotional, and custom content videos for theatrical film marketing. <br><br>
+After graduating from Pomona College (and receiveing The Scott Winslow Award and The Matthew Klopfleisch Prize in Media Studies), he began working on creative content campaigns for films from Warner Bros., Paramount, Amazon, and more. An excellent communicator and team player, he particularly enjoys collaborating on pieces that incorporate animated elements, VFX, and immersive sound design. He primarily works in Adobe Premiere or Avid MC, with versatile experience in a variety of workflows and creative environments.<br><br>
 In his free time he enjoys experimenting with vintage synthesizers, juggling, and hiking. <br><br>
 <center>
 Contact: eric.culhane@gmail.com <br>
