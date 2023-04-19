@@ -1,6 +1,6 @@
 ---
 layout: content
-title:  <b>MLB Play App 2023</b> <br> <i>Commercial Broadcasts</i>
+title:  <b>MLB Play App 2023</b> <br> <i>Commercial Campaign</i>
 preview: \assets\img\MLBPLAYAPP2023_logo.png
 section: commercial
 permalink: /MLBPLAY2023

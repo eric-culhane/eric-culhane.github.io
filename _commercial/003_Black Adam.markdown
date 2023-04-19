@@ -1,6 +1,6 @@
 ---
 layout: content
-title:  <b>Black Adam</b> <br> <i>Featurette</i>
+title:  <b>Black Adam</b> <br> <i>Home Entertainment</i>
 preview: \assets\img\HistoryBAThumb.jpg
 section: commercial
 permalink: /BATHBA

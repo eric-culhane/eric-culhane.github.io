@@ -1,6 +1,6 @@
 ---
 layout: content
-title: <b>Narrator Inc.</b> <br><i>Company Reel</i>
+title: <b>Narrator Inc.</b> <br><i>Company Reels</i>
 preview: \assets\img\colorthumb1.png
 section: commercial
 permalink: /TPTFMR
