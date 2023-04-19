@@ -1,0 +1,21 @@
+---
+layout: content
+title:  <b>Major League Baseball</b> <br> <i>Commercial Broadcast</i>
+preview: \assets\img\MLBPLAYAPP2023_logo.png
+section: commercial
+permalink: /MLBPLAY2023
+---
+
+
+<iframe src="https://player.vimeo.com/video/819288808?h=b3dd293bdf" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+
+<iframe src="https://player.vimeo.com/video/819288350?h=5d406d9e17" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+
+
+
+Two 30-second commercial spots created for MLB Play App's 2023 campaign, broadcast on network television. 
+Also edited 15-second cutdowns, Spanish language versions, radio versions, and square/vertical reformatted versions for digital release.
+Created in close collaboration with a 2D animator/designer. Worked primarily in Adobe Premiere with minor adjustments made in After Effects.
+
+
+
