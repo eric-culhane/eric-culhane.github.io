@@ -6,8 +6,9 @@ section: personal
 permalink: /mattressexpress
 ---
 
-<iframe src="https://player.vimeo.com/video/802131841?h=d4ad42fffe" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+<body><center><div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/802131841?h=d4ad42fffe" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+<br>
 
 “Mattress Express” (2023). 17min. <br>
 A Heavy Shovel Production / sogbots. <br>
-Edited by Eric Culhane.
+Edited by Eric Culhane. </center></body>
