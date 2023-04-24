@@ -7,15 +7,20 @@ permalink: /MLBPLAY2023
 ---
 
 
-<center><body><iframe src="https://player.vimeo.com/video/819288808?h=b3dd293bdf" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe></body></center>
+<center><body>
+
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/819288808?h=b3dd293bdf&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="MLB App TV Spot - &amp;#039;Customize Your MLB&amp;#039;"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+MLB App TV Spot - 'Customize Your MLB'
+<!-- <iframe src="https://player.vimeo.com/video/819288808?h=b3dd293bdf" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe></body></center> -->
 <br>
 <br>
-<center><body><iframe src="https://player.vimeo.com/video/819288350?h=5d406d9e17" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe></body></center>
-
-
-
-Two 30-second commercial spots created for MLB Play App's 2023 campaign, broadcast on network television. <br> <br>
-Edited additional 15-second cutdowns, Spanish language versions, radio versions, and square/vertical reformatted versions for digital release. Created in close collaboration with a 2D animator/designer. Worked primarily in Adobe Premiere with minor adjustments made in After Effects.
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/819288350?h=5d406d9e17&badge=0&autopause=0&player_id=0&app_id=58479/embed" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen frameborder="0" style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></div>
+MLB App TV Spot - 'Breakdown' </body></center>
+<br>
+<br>
+<br>
+Two 30-second commercial spots created for the MLB Play App's 2023 campaign, broadcast on national and international television. <br> <br>
+Also edited 15-second cutdowns, Spanish language versions, radio versions, and square/vertical reformatted versions for digital release. Created in close collaboration with 2D animator/designer Mark Feldman. Worked primarily in Adobe Premiere with minor adjustments in After Effects.
 
 
 
