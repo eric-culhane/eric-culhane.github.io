@@ -11,6 +11,7 @@ permalink: /TPTFMR
 <br>
 Edited to showcase work created by the motion graphics team at Narrator, Inc.<br>
 Editor: Eric Culhane<br>
+Creative Director: Michael Washington<br>
 Design/Animation: Narrator, Inc.
 
 <br>
@@ -20,5 +21,6 @@ Design/Animation: Narrator, Inc.
 
 Edited to showcase work created by the color department at Narrator Inc.<br>
 Editor: Eric Culhane<br>
+Creative Director: Michael Washington<br>
 Coloring: Narrator, Inc.
 </center></body>
