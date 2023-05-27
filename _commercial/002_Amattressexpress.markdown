@@ -6,7 +6,7 @@ section: personal
 permalink: /mattressexpress
 ---
 
-<body><center><iframe src="https://player.vimeo.com/video/802131841?h=d4ad42fffe" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+<body><center><iframe src="https://player.vimeo.com/video/796815419?h=d4ad42fffe" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 <br>
 
 “Mattress Express” (2023). 17min. <br>
