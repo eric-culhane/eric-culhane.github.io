@@ -17,7 +17,8 @@ Edited by Eric Culhane. <br> <br>
 <img src="\assets\img\Mattress1.png" alt="Mattress Express"><br>
 <img src="\assets\img\Mattress2.png" alt="Mattress Express"><br>
 <img src="\assets\img\Mattress3.png" alt="Mattress Express"><br>
-<img src="\assets\img\Mattress4.png" alt="Mattress Express">
+<img src="\assets\img\Mattress4.png" alt="Mattress Express"><br>
+<img src="\assets\img\Mattress5.png" alt="Mattress Express"> 
 
 
 
