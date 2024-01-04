@@ -9,7 +9,7 @@ permalink: /mattressexpress
 <body><center> 
 <img src="\assets\img\MattressThumb2.jpg" alt="Mattress Express">
 “Mattress Express” (2023). 17min. <br><br>
-<i>Grand Prize New England Director’s Award | Flickers’ Rhode Island International Film Fest <br> Official Selection | Hollyshort Film Festival <br>
+<i>Grand Prize New England Director’s Award | Flickers’ Rhode Island Int'l Film Fest <br> Official Selection | Hollyshort Film Festival <br>
 Official Selection | Montana International Film Festival <br>
 Official Selection | Dances With Films NYC Film Festival</i> <br><br>
 A Heavy Shovel Production / sogbots. <br><br>
