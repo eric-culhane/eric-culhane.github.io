@@ -2,7 +2,7 @@
 layout: content
 title:  <b>Propel Fitness Water</b> <br><i>Brand Social Campaign</i>
 preview: \assets\img\PROPEL.png
-section: portfolio
+section: commercial
 permalink: /propel
 ---
 
