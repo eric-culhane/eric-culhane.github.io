@@ -19,7 +19,7 @@ Loopable 30 second videos spotlighting organizations that Propel and Michael B. 
 
 <b>All in One Social Product Campaign</b>
 <br>
-Loopable 6 second videos featuring the Propel Fitness Water product line. These videos were edited in close collaboration with VFX artist and
+Loopable 6 second videos featuring the Propel Fitness Water product line. These videos were edited in collaboration with CG artist Tom Taylor.
 <br>
 
 </div></div><div class="sqs-block gallery-block sqs-block-gallery" data-block-json="&#123;&quot;methodOption&quot;:&quot;existing&quot;,&quot;aspect-ratio&quot;:&quot;standard-vertical&quot;,&quot;auto-crop&quot;:true,&quot;blockAnimation&quot;:&quot;none&quot;,&quot;collectionId&quot;:&quot;6664bb15bd77f2407f6fe060&quot;,&quot;design&quot;:&quot;grid&quot;,&quot;existingGalleryId&quot;:&quot;6664bb15bd77f2407f6fe060&quot;,&quot;lightbox&quot;:true,&quot;lightboxTheme&quot;:&quot;dark&quot;,&quot;padding&quot;:0,&quot;show-meta&quot;:true,&quot;show-meta-basic&quot;:true,&quot;show-meta-only-title&quot;:true,&quot;show-meta-only-description&quot;:false,&quot;square-thumbs&quot;:false,&quot;thumbnails-per-row&quot;:4&#125;" data-block-type="8" id="block-f3018cb8e0981e31bdaa"><div class="sqs-block-content">
