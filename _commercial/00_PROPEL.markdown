@@ -22,6 +22,8 @@ Loopable 6 second videos featuring the Propel Fitness Water product line. These 
 
 [Overview of the campaign from creative director Michael Washington.](https://michael-washington.com/propel)
 <br>
+<br>
+<b>Credits</b><br>
 Creative Director: Michael Washington <br>
 Editor: Eric Culhane <br>
 CG Animations: Tom Taylor <br>
