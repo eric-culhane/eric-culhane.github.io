@@ -24,6 +24,7 @@ Loopable 6 second videos featuring the Propel Fitness Water product line. These 
 <br>
 <div style='padding:177.78% 0 0 0;position:relative;'><iframe src='https://vimeo.com/showcase/11370534/embed' allowfullscreen frameborder='0' style='position:absolute;top:0;left:0;width:50%;height:50%;'></iframe></div>
 
+</center></body>
 [Overview of the campaign from creative director Michael Washington.](https://michael-washington.com/propel)
 <br>
 <br>
@@ -34,6 +35,3 @@ CG Animations: Tom Taylor <br>
 Sound Design / Sound Mix: Luke Scheidemantle <br>
 Compositing / Roto: James Lee <br>
 [Full credits from the campaign.](https://www.feats.co/project/propel-2024)
-
-
-</center></body>
