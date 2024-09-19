@@ -11,10 +11,10 @@ This two-part social campaign for Propel Fitness Water included brand narrative 
 <br>
 <br>
 <b>Propel Your City Content Series</b>
-<div style='padding:50% 0 0 0;position:relative;'><iframe src='https://vimeo.com/showcase/11370511/embed' allowfullscreen frameborder='0' style='position:absolute;top:0;left:0;width:50%;height:50%;'></iframe></div>
+<div style='padding:177.78% 0 0 0;position:relative;'><iframe src='https://vimeo.com/showcase/11370511/embed' allowfullscreen frameborder='0' style='position:absolute;top:0;left:0;width:50%;height:50%;'></iframe></div>
 <br>
 <b>All in One Social Product Campaign</b>
-<div style='padding:50% 0 0 0;position:relative;'><iframe src='https://vimeo.com/showcase/11370534/embed' allowfullscreen frameborder='0' style='position:absolute;top:0;left:0;width:50%;height:50%;'></iframe></div>
+<div style='padding:177.78% 0 0 0;position:relative;'><iframe src='https://vimeo.com/showcase/11370534/embed' allowfullscreen frameborder='0' style='position:absolute;top:0;left:0;width:50%;height:50%;'></iframe></div>
 </center></body>
 [Overview of the campaign from creative director Michael Washington.](https://michael-washington.com/propel)
 <br>
