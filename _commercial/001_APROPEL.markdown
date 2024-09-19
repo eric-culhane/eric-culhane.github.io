@@ -11,16 +11,13 @@ This two-part social campaign for Propel Fitness Water included brand narrative 
 <br>
 <br>
 <b>Propel Your City Content Series</b>
-
 <div style='padding:100% 0 0 0;position:relative;'><iframe src='https://vimeo.com/showcase/11370511/embed' allowfullscreen frameborder='0' style='position:absolute;top:0;left:0;width:50%;height:50%;'></iframe></div>
-Loopable 30 second videos spotlighting organizations that Propel and Michael B. Jordan partnered with to encourage active lifestyles.
 <br>
 
 <!-- <body><center><iframe width="560" height="315" src="https://www.youtube.com/embed/dhVBuOhmNVc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></center></body> -->
 
 <b>All in One Social Product Campaign</b>
 <div style='padding:100% 0 0 0;position:relative;'><iframe src='https://vimeo.com/showcase/11370534/embed' allowfullscreen frameborder='0' style='position:absolute;top:0;left:0;width:50%;height:50%;'></iframe></div>
-Loopable 6 second videos featuring the Propel Fitness Water product line. These videos were edited in collaboration with CG artist Tom Taylor.
 <br>
 </center></body>
 [Overview of the campaign from creative director Michael Washington.](https://michael-washington.com/propel)
