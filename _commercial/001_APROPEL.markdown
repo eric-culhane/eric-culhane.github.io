@@ -11,7 +11,7 @@ This two-part social campaign for Propel Fitness Water included brand narrative 
 <br>
 <br>
 <b>Propel Your City Content Series</b>
-<div style='padding:100% 0 0 0;position:relative;'><iframe src='https://vimeo.com/showcase/11370511/embed' allowfullscreen frameborder='0' style='position:absolute;top:0;left:0;width:50%;height:50%;'></iframe></div>
+<div style='padding:100% 0 0 0;position:relative;'><iframe src='https://vimeo.com/showcase/11370511/embed' allowfullscreen frameborder='0' style='position:center;top:0;left:0;width:50%;height:50%;'></iframe></div>
 
 <b>All in One Social Product Campaign</b>
 <div style='padding:100% 0 0 0;position:relative;'><iframe src='https://vimeo.com/showcase/11370534/embed' allowfullscreen frameborder='0' style='position:absolute;top:0;left:0;width:50%;height:50%;'></iframe></div>
