@@ -1,6 +1,6 @@
 ---
 layout: content
-title:  <b>Major League Baseball</b> <br> <i>Commercials</i>
+title:  <b>MLB APP</b> <br> <i>Commercials</i>
 preview: \assets\img\mlb thumb.png
 section: commercial
 permalink: /MLB
