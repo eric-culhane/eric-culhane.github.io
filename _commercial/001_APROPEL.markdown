@@ -8,7 +8,8 @@ permalink: /propel
 
 <body><center>
 This two-part social campaign for Propel Fitness Water included brand narrative and product-focused content.
-
+<br>
+<br>
 <b>Propel Your City Content Series</b>
 <br>
 Loopable 30 second videos spotlighting organizations that Propel and Michael B. Jordan partnered with to encourage active lifestyles and a commitment to fitness.
