@@ -55,7 +55,50 @@ This two-part social campaign for Propel Fitness Water included brand narrative 
 <br>
 
 <b>All in One Social Product Campaign</b>
-<div style='padding:177.78% 0 0 0;position:relative;'><iframe src='https://vimeo.com/showcase/11370534/embed' allowfullscreen frameborder='0' style='position:absolute;top:0;left:0;width:50%;height:50%;'></iframe></div>
+<!-- <div style='padding:177.78% 0 0 0;position:relative;'><iframe src='https://vimeo.com/showcase/11370534/embed' allowfullscreen frameborder='0' style='position:absolute;top:0;left:0;width:50%;height:50%;'></iframe></div> -->
+
+<div style="display: grid; grid-template-columns: repeat(3, 1fr); grid-gap: 10px;">
+
+    <!-- Repeat this block with each video -->
+    <div style="padding:177.78% 0 0 0;position:relative;">
+        <iframe src="https://player.vimeo.com/video/1010764848?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="twenty"></iframe>
+    </div>
+    <!-- End of block -->
+
+    <!-- Repeat this block with each video -->
+    <div style="padding:177.78% 0 0 0;position:relative;">
+        <iframe src="https://player.vimeo.com/video/1010764949?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="twenty"></iframe>
+    </div>
+    <!-- End of block -->
+
+    <!-- Repeat this block with each video -->
+    <div style="padding:177.78% 0 0 0;position:relative;">
+        <iframe src="https://player.vimeo.com/video/1010765352?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="twenty"></iframe>
+    </div>
+    <!-- End of block -->
+
+        <!-- Repeat this block with each video -->
+    <div style="padding:177.78% 0 0 0;position:relative;">
+        <iframe src="https://player.vimeo.com/video/1010765429?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="twenty"></iframe>
+    </div>
+    <!-- End of block -->
+
+
+        <!-- Repeat this block with each video -->
+    <div style="padding:177.78% 0 0 0;position:relative;">
+        <iframe src="https://player.vimeo.com/video/1010765531?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="twenty"></iframe>
+    </div>
+
+            <!-- Repeat this block with each video -->
+    <div style="padding:177.78% 0 0 0;position:relative;">
+        <iframe src="https://player.vimeo.com/video/1010766629?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="twenty"></iframe>
+    </div>
+
+    <!-- End of block -->
+
+
+
+</div>
 </center></body>
 
 [Overview of the campaign from creative director Michael Washington.](https://michael-washington.com/propel)
