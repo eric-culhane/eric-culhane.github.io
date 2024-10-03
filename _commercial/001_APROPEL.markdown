@@ -15,7 +15,7 @@ This two-part social campaign for Propel Fitness Water included brand narrative 
 
 <div style='display: flex; justify-content: center; align-items: center; height: 100vh;'>
     <div style='padding:177.78% 0 0 0;position:relative;'>
-        <iframe src='https://vimeo.com/showcase/11370511/embed' allowfullscreen frameborder='0' style='position:absolute;top:0;left:0;width:50%;height:50%;'></iframe>
+        <iframe src='https://vimeo.com/showcase/11370511/embed' allowfullscreen frameborder='0' style='position:absolute;top:0;left:0;width:50%;height:50%;'></iframe> </div> </div>
 
 <br>
 
