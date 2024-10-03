@@ -100,7 +100,8 @@ This two-part social campaign for Propel Fitness Water included brand narrative 
 
 </div>
 </center></body>
-
+<br>
+<br>
 [Overview of the campaign from creative director Michael Washington.](https://michael-washington.com/propel)
 <br>
 <br>
