@@ -13,7 +13,7 @@ This two-part social campaign for Propel Fitness Water included brand narrative 
 <!-- <b>Propel Your City Content Series</b>
 <div style='padding:177.78% 0 0 0;position:relative;'><iframe src='https://vimeo.com/showcase/11370511/embed' allowfullscreen frameborder='0' style='position:absolute;top:0;left:0;width:50%;height:50%;'></iframe></div> -->
 
-<div style="display: grid; grid-template-columns: repeat(3, 1fr); grid-gap: 10px;">
+<div style="display: grid; grid-template-columns: repeat(5, 1fr); grid-gap: 10px;">
 
     <!-- Repeat this block with each video -->
     <div style="padding:177.78% 0 0 0;position:relative;">
@@ -23,21 +23,31 @@ This two-part social campaign for Propel Fitness Water included brand narrative 
 
     <!-- Repeat this block with each video -->
     <div style="padding:177.78% 0 0 0;position:relative;">
-        <iframe src="https://player.vimeo.com/video/1000?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="twenty"></iframe>
+        <iframe src="https://player.vimeo.com/video/1010765021?h=4e01c5ef68&title=0&byline=0&portrait=0" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="twenty"></iframe>
     </div>
     <!-- End of block -->
 
     <!-- Repeat this block with each video -->
     <div style="padding:177.78% 0 0 0;position:relative;">
-        <iframe src="https://player.vimeo.com/video/1000?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="twenty"></iframe>
+        <iframe src="https://player.vimeo.com/video/1010765676?h=b7f2fbb18f&title=0&byline=0&portrait=0" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="twenty"></iframe>
     </div>
     <!-- End of block -->
 
         <!-- Repeat this block with each video -->
     <div style="padding:177.78% 0 0 0;position:relative;">
-        <iframe src="https://player.vimeo.com/video/1000?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="twenty"></iframe>
+        <iframe src="https://player.vimeo.com/video/1010766014?h=cf0fb54eb1&title=0&byline=0&portrait=0" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="twenty"></iframe>
     </div>
     <!-- End of block -->
+
+
+        <!-- Repeat this block with each video -->
+    <div style="padding:177.78% 0 0 0;position:relative;">
+        <iframe src="https://player.vimeo.com/video/1010766724?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="twenty"></iframe>
+    </div>
+    <!-- End of block -->
+
+
+
 </div>
 
 
