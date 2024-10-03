@@ -30,4 +30,5 @@ Editor: Eric Culhane <br>
 CG Animations: Tom Taylor <br>
 Sound Design / Sound Mix: Luke Scheidemantle <br>
 Compositing / Roto: James Lee <br>
+Colorist: Evan Gradillas
 [Full credits from the campaign.](https://www.feats.co/project/propel-2024)
