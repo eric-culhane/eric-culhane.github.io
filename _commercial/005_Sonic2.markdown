@@ -22,9 +22,7 @@ Excerpt from award-winning Nickelodeon exclusive TV broadcast created with two o
 <br>GOLD WINNER: GENERAL — PROMOTIONAL VIDEO (The Telly Awards)<br>
 SILVER WINNER: Entertainment — Branded Content - The Telly Awards (2023)<br>
 SILVER WINNER: Movie Trailers — Television - The Telly Awards (2023)<br>
-
-
-<a href="https://www.tellyawards.com/winners/2023/television/general-movie-trailers/thrills-quills-the-making-of-sonic-the-hedgehog-2/291719/">SILVER WINNER: Entertainment — Branded Content - The Telly Awards (2023)</a> <br>
+SILVER WINNER: Entertainment — Branded Content - The Telly Awards (2023)<br>
 
 <b><a href="https://www.tellyawards.com/winners/2023/promotional-video/general-entertainment/thrills-quills-the-making-of-sonic-the-hedgehog-2/289769">Full video and list of credits can be viewed here.</a></b>
 <br><br>
