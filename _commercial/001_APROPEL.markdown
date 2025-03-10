@@ -103,14 +103,14 @@ This two-part social campaign for Propel Fitness Water included brand narrative 
 </center></body>
 <br>
 <br>
-[Overview of the campaign from creative director Michael Washington.](https://michael-washington.com/propel)
-<br>
-<br>
-<b>Credits</b><br>
-Creative Director: Michael Washington <br>
+<!-- [Overview of the campaign from creative director Michael Washington.](https://michael-washington.com/propel) -->
+<!-- <br>
+<br> -->
+<!-- <b>Credits</b><br> -->
+<!-- Creative Director: Michael Washington <br>
 Editor: Eric Culhane <br>
 CG Animations: Tom Taylor <br>
 Sound Design / Sound Mix: Luke Scheidemantle <br>
 Compositing / Roto: James Lee <br>
-Colorist: Evan Gradillas
+Colorist: Evan Gradillas -->
 [Full credits from the campaign.](https://www.feats.co/project/propel-2024)
