@@ -5,9 +5,8 @@ preview: \assets\img\PROPEL.png
 section: commercial
 permalink: /propel
 ---
-
 <body><center>
-This two-part social campaign for Propel Fitness Water included brand narrative and product-focused content.
+This two-part social campaign for Propel Fitness Water included brand narrative and product-focused content. <a href="https://www.feats.co/project/propel-2024">Full credits from the campaign.</a>
 <br>
 <br>
 <b>Propel Your City Content Series</b>
@@ -113,4 +112,4 @@ CG Animations: Tom Taylor <br>
 Sound Design / Sound Mix: Luke Scheidemantle <br>
 Compositing / Roto: James Lee <br>
 Colorist: Evan Gradillas -->
-[Full credits from the campaign.](https://www.feats.co/project/propel-2024)
+<!-- [Full credits from the campaign.](https://www.feats.co/project/propel-2024) -->

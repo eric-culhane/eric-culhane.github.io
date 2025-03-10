@@ -5,7 +5,7 @@ preview: \assets\img\HistoryBAThumb.jpg
 section: commercial
 permalink: /BATHBA
 ---
-
+Black Adam home entertainment featurettes created for Warner Bros. Entertainment. Collaborated with design team to incorporate graphical/animated elements. <br>>
 
 <body><center><div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://www.youtube.com/embed/I9B6rwW35GQ" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Black Adam | The History of Black Adam"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 
@@ -21,6 +21,6 @@ Black Adam | Who is the Justice Society? | Featurette
 <br>
 <br><br>
 
-Black Adam home entertainment featurettes created for Warner Bros. Entertainment. Collaborated with design team to incorporate graphical/animated elements.
+<!-- Black Adam home entertainment featurettes created for Warner Bros. Entertainment. Collaborated with design team to incorporate graphical/animated elements. -->
 </center></body>
 
