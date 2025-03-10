@@ -13,7 +13,13 @@ After graduating from Pomona College (receiving The Scott Winslow Award and The 
 In his free time he enjoys experimenting with vintage synthesizers, juggling, and hiking. <br><br>
 <b>Editorial Awards</b><br>
 <a href="https://www.tellyawards.com/winners/2023/promotional-video/general-entertainment/thrills-quills-the-making-of-sonic-the-hedgehog-2/289769">GOLD WINNER: General — Promotional Video - The Telly Awards (2023)</a> <br>
+
+<a href="https://www.tellyawards.com/winners/2023/television/general-movie-trailers/thrills-quills-the-making-of-sonic-the-hedgehog-2/291719/">SILVER WINNER: Movie Trailers — Television - The Telly Awards (2023)</a> <br>
+
+<a href="https://www.tellyawards.com/winners/2023/television/general-movie-trailers/thrills-quills-the-making-of-sonic-the-hedgehog-2/291719/">SILVER WINNER: Entertainment — Branded Content - The Telly Awards (2023)</a> <br>
+
 <a href="https://clios.com/entertainment/winner/home-entertainment-original-content/shazam-fury-of-the-gods/scene-deconstruction-148652">BRONZE WINNER: Home Ent: Original Content - 2023 Clio Entertainment Awards</a> <br>
+
 <a href="https://clios.com/entertainment/winner/theatrical-film-original-content/shazam-fury-of-the-gods/scene-deconstruction-151604">SHORT LIST: Theatrical: Original Content- 2023 Clio Entertainment Awards</a> <br>
 <br>
 
