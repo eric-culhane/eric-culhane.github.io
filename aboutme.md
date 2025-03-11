@@ -5,7 +5,7 @@ permalink: /about/
 ---
 <!-- 
 Connect with me on LinkedIn.
-[Resume.]({{ '\assets\pdf\Eric Culhane Assistant Editing Resume.pdf' | prepend: site.baseurl }}) -->
+[Resume.]({{ '\assets\pdf\Eric Culhane Resume 2025.pdf' | prepend: site.baseurl }}) -->
 
 <!-- <center> -->
 Eric Culhane is an award-winning editor and motion graphics artist based in Los Angeles with expertise in creating videos for entertainment marketing, branded content and narrative film. <br><br>
@@ -23,7 +23,8 @@ In his free time he enjoys experimenting with vintage synthesizers, juggling, an
 <center>
 Contact: eric.culhane@gmail.com <br>
 <br>
-<a href="http://eric-culhane.com/assets/pdf/Eric%20Culhane%20Resume%2025.pdf">Resume</a> <br>
+<!-- <a href="http://eric-culhane.com/assets/pdf/Eric%20Culhane%20Resume%2025.pdf">Resume</a> <br> -->
+[Resume.]({{ '\assets\pdf\Eric Culhane Resume 2025.pdf' | prepend: site.baseurl }})
 <a href="https://www.linkedin.com/in/eric-culhane/">LinkedIn</a> <br>
 </center>
 
