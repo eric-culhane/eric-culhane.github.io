@@ -23,8 +23,8 @@ In his free time he enjoys experimenting with vintage synthesizers, juggling, an
 <center>
 Contact: eric.culhane@gmail.com <br>
 <br>
-<!-- <a href="http://eric-culhane.com/assets/pdf/Eric%20Culhane%20Resume%2025.pdf">Resume</a> <br> -->
-[Resume.]({{ '\assets\pdf\Eric Culhane Resume 2025.pdf' | prepend: site.baseurl }})
+<a href="http://eric-culhane.com/assets/pdf/Eric%20Culhane%20Resume%2025.pdf">Resume</a> <br>
+<!-- [Resume.]({{ '\assets\pdf\Eric Culhane Resume 2025.pdf' | prepend: site.baseurl }}) -->
 <a href="https://www.linkedin.com/in/eric-culhane/">LinkedIn</a> <br>
 </center>
 
