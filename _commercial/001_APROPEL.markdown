@@ -1,6 +1,6 @@
 ---
 layout: content
-title:  <b>Propel Fitness Water</b> <br><i>Brand Campaign</i>
+title:  <b>Propel Fitness Water</b> <br><i>Brand Social Campaign</i>
 preview: \assets\img\PROPEL.png
 section: commercial
 permalink: /propel

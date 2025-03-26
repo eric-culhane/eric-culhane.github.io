@@ -1,6 +1,6 @@
 ---
 layout: content
-title:  <b>Sonic the Hedgehog 2</b> <br><i>Broadcast TV</i>
+title:  <b>Sonic the Hedgehog 2</b> <br><i>Broadcast TV Special</i>
 preview: \assets\img\sonicthumb.jpg
 section: portfolio
 permalink: /S2TNQ
