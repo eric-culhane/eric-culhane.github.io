@@ -9,11 +9,11 @@ Connect with me on LinkedIn.
 
 <!-- <center> -->
 Eric Culhane is an award-winning editor based in Los Angeles with expertise in creating videos for entertainment marketing, branded content, narrative and documentary film. His featurette work in entertainment marketing has received two Clio Entertainment Awards as well as Gold and Silver Telly Awards.
-<br>
+<br><br>
 A diverse portfolio of work includes creative content campaigns for films and TV shows from Warner Bros, Paramount, Lionsgate, Amazon Prime Video, DC, and Nickelodeon. He has also edited and created motion graphics for commercial content for Major League Baseball and Propel Fitness Water/Gatorade. Other motion graphics clients include Johnson & Johnson, Better Medicare Alliance, and Prograde. 
-<br>
+<br><br>
 He has a degree in Media Studies from Pomona College, where he was a recipient of the Scott Winslow Award The Matthew Klopfleisch Prize in Media Studies. An excellent communicator and team player, he particularly enjoys collaborating on innovative pieces that incorporate animated elements, VFX, and immersive sound design. With versatile experience in a variety of workflows and creative environments, he primarily works in Adobe Premiere and After Effects (with additional experience creating work in Avid MC and DaVinci Resolve).
-<br>
+<br><br>
 In his free time he enjoys experimenting with vintage synthesizers, juggling, surfing and hiking. <br><br>
 <b>Editorial Awards</b><br>
 <a href="https://www.tellyawards.com/winners/2023/promotional-video/general-entertainment/thrills-quills-the-making-of-sonic-the-hedgehog-2/289769">GOLD WINNER: General — Promotional Video - The Telly Awards (2023)</a> <br>
