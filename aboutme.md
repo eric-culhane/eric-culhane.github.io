@@ -28,7 +28,7 @@ He has a degree in Media Studies from Pomona College (where he was a recipient o
 Contact: eric.culhane@gmail.com <br>
 <br>
 <a href="http://eric-culhane.com/assets/pdf/EricCulhaneResume2025.pdf">Resume</a> <br>
-<!-- [Resume.]({{ '\assets\pdf\Eric Culhane Resume 2025.pdf' | prepend: site.baseurl }}) -->
+<!-- [Resume.]({{ '/assets/pdf/EricCulhaneResume2025.pdf' | prepend: site.baseurl }}) -->
 <a href="https://www.linkedin.com/in/eric-culhane/">LinkedIn</a> <br>
 </center>
 
