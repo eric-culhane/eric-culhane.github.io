@@ -8,7 +8,7 @@ Connect with me on LinkedIn.
 [Resume.]({{ '\assets\pdf\Eric Culhane Resume 2025.pdf' | prepend: site.baseurl }}) -->
 
 <!-- <center> -->
-Eric Culhane is an award-winning editor based in Los Angeles with expertise in creating videos for entertainment marketing, branded content, narrative and documentary film. His featurette/promo work has received two Clio Entertainment Awards as well as Gold and Silver Telly Awards.
+Eric Culhane is an award-winning editor and assistant editor based in Los Angeles with expertise in creating videos for entertainment marketing, branded content, narrative and documentary film. His featurette/promo work has received two Clio Entertainment Awards as well as Gold and Silver Telly Awards.
 <br><br>
 He primarily works in Adobe Premiere and After Effects (with additional experience creating work in Avid MC and DaVinci Resolve).
 <br><br>
