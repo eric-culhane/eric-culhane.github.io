@@ -12,7 +12,7 @@ Eric Culhane is an award-winning editor and assistant editor based in Los Angele
 <br><br>
 He primarily works in Adobe Premiere and After Effects (with additional experience creating work in Avid MC and DaVinci Resolve).
 <br><br>
-His editing portfolio includes creative content campaigns for films and TV from Warner Bros, Paramount, Lionsgate, Amazon Prime Video, DC, and Nickelodeon. He has also edited and created motion graphics for Major League Baseball and Propel Fitness Water/Gatorade. Other motion graphics clients include Johnson & Johnson, Better Medicare Alliance, and Prograde. 
+His editing portfolio includes creative content campaigns for films and TV from Warner Bros, Paramount, Lionsgate, Netflix, Amazon Prime Video, DC, and Nickelodeon. He has also edited and created motion graphics for Major League Baseball and Propel Fitness Water/Gatorade. Other motion graphics clients include Johnson & Johnson, Better Medicare Alliance, and Prograde. 
 <br><br>
 He has a degree in Media Studies from Pomona College (where he was a recipient of the Scott Winslow Award The Matthew Klopfleisch Prize in Media Studies) and enjoys experimenting with vintage synthesizers, juggling and surfing in his free time.  <br><br>
 <b>Editorial Awards</b><br>
