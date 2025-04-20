@@ -10,7 +10,7 @@ Connect with me on LinkedIn.
 <!-- <center> -->
 Eric Culhane is an award-winning editor based in Los Angeles with expertise in creating videos for entertainment marketing, branded content, narrative and documentary film. His featurette/promo work has received two Clio Entertainment Awards as well as Gold and Silver Telly Awards.
 <br><br>
-He primarily works in Adobe Premiere and After Effects (with additional experience creating work in Avid MC and DaVinci Resolve).
+He primarily works in Adobe Premiere and After Effects (with additional experience in Avid MC and DaVinci Resolve).
 <br><br>
 His editing portfolio includes creative content campaigns for films and TV from Warner Bros, Paramount, Lionsgate, Netflix, Amazon Prime Video, DC, and Nickelodeon. He has also edited and created motion graphics for Major League Baseball and Propel Fitness Water/Gatorade. Other motion graphics clients include Johnson & Johnson, Better Medicare Alliance, and Prograde. 
 <br><br>
