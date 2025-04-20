@@ -15,7 +15,7 @@ In the second semester of my capstone, I continued research on concepts from pos
 "Corporeal mime primarily relies on the unmediated presence of the actor, but how does the mime use the human body as a form of media? With no external media to rely on, how does corporeal mime invoke a cybernetic system? In order to examine these notions, I discuss interrelated ideas posited in the fields of cybernetics, posthumanism, body art and corporeal mime... Although there is not a strong preexisting relationship between the fields of corporeal mime and media studies, I argue that media, in the form of the human body, is integral to corporeal mime... and consider ways in which corporeal mime can explore and express cybernetic relationships."
 
 
-Video from the performance <a href="https://www.mediavaccine.org/work/eric-culhane">can be found here.</a>
+<a href="https://www.mediavaccine.org/work/eric-culhane">Video from the performance.</a>
 
 <p align="center"><img src="\assets\img\CybermimeticsPoster.jpg" alt="Event Poster"></p>
 <p align="center"><img src="\assets\img\CyberGallery1.jpg" alt="Gallery Exhibition"></p>
