@@ -12,9 +12,9 @@ Eric Culhane is an award-winning editor based in Los Angeles with expertise in c
 <br><br>
 He primarily works in Adobe Premiere and After Effects (with additional experience in Avid MC and DaVinci Resolve).
 <br><br>
-His editing portfolio includes creative content campaigns for films and TV from Warner Bros, Paramount, Lionsgate, Netflix, Amazon Prime Video, DC, and Nickelodeon. He has also edited and created motion graphics for Major League Baseball and Propel Fitness Water/Gatorade. Other motion graphics clients include Johnson & Johnson, Better Medicare Alliance, and ProGrade. 
+His editing portfolio includes work for creative content campaigns from Warner Bros, Paramount, Lionsgate, Netflix, Amazon Prime Video, DC, and Nickelodeon. He has also edited and created motion graphics for Major League Baseball and Propel Fitness Water/Gatorade. Other motion graphics clients include Johnson & Johnson, Better Medicare Alliance, and ProGrade. 
 <br><br>
-He has a degree in Media Studies from Pomona College (where he was a recipient of the Scott Winslow Award The Matthew Klopfleisch Prize in Media Studies) and enjoys experimenting with vintage synthesizers, juggling and surfing in his free time.  <br><br>
+He has a degree in Media Studies from Pomona College (where he was a recipient of the Scott Winslow Award and The Matthew Klopfleisch Prize in Media Studies) and enjoys experimenting with vintage synthesizers, juggling and surfing in his free time.  <br><br>
 <b>Editorial Awards</b><br>
 <a href="https://www.tellyawards.com/winners/2023/promotional-video/general-entertainment/thrills-quills-the-making-of-sonic-the-hedgehog-2/289769">GOLD WINNER: General — Promotional Video - The Telly Awards (2023)</a> <br>
 <a href="https://www.tellyawards.com/winners/2023/television/general-movie-trailers/thrills-quills-the-making-of-sonic-the-hedgehog-2/291719/">SILVER WINNER: Movie Trailers — Television - The Telly Awards (2023)</a> <br>
